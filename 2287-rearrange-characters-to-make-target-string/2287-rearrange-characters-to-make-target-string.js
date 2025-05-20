@@ -3,7 +3,7 @@
  * @param {string} target
  * @return {number}
  */
-var rearrangeCharacters = function (s, target) {
+var rearrangeCharacters = function(s, target) {
     let freqS = {};
     let freqT = {};
 
