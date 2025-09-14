@@ -4,15 +4,11 @@
  * @param {number} z
  * @return {number}
  */
-var findClosest = function (x, y, z) {
-    let min1 = Math.abs(x - z);
-    let min2 = Math.abs(y - z);
+var findClosest = function(x, y, z) {
+    const d1 = Math.abs(z - x);
+        const d2 = Math.abs(z - y);
 
-    if (min1 < min2) {
-        return 1;
-    } else if (min1 > min2) {
-        return 2;
-    } else {
-        return 0;
-    }
+        if (d1 < d2) return 1;
+        else if (d1 > d2) return 2;
+        else return 0;
 };
