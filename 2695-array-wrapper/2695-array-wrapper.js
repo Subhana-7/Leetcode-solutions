@@ -1,15 +1,15 @@
 /**
  * @param {number[]} nums
  */
-var ArrayWrapper = function (nums) {
-    this.nums = nums;
+var ArrayWrapper = function(nums) {
+        this.nums = nums;
 };
 
-ArrayWrapper.prototype.valueOf = function () {
+ArrayWrapper.prototype.valueOf = function() {
     return this.nums.reduce((sum, num) => sum + num, 0);
 }
 
-ArrayWrapper.prototype.toString = function () {
+ArrayWrapper.prototype.toString = function() {
     return `[${this.nums.join(',')}]`;
 }
 
