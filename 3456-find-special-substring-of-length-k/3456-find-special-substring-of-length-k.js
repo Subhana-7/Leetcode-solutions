@@ -4,14 +4,14 @@
  * @return {boolean}
  */
 var hasSpecialSubstring = function (s, k) {
-    let sub = 0;
-    for (let i = 0; i < s.length; i++) {
-        if (s[i] === s[i + 1]) {
-            sub++;
-        } else {
-            sub = 0;
+    const n = s.length;
+    let prev, count = 1;
+    for (let i = 1; i < n; ++i) {
+        if (s[i] !== s[i - 1]) {
+            if (count === k) return true;
+            count = 0;
         }
-        if (sub === (k - 1)) return true
+        count++;
     }
-    return false;
+    return count === k;
 };
