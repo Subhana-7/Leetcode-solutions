@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
