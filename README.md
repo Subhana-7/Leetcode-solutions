@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1587-bank-account-summary-ii](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Array
 | Problem Name | Difficulty |
