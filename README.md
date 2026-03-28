@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
 | [3731-find-missing-elements](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -90,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 <!---LeetCode Topics End-->
