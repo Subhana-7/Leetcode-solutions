@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0929-unique-email-addresses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3731-find-missing-elements](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
