@@ -104,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
