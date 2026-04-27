@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0535-encode-and-decode-tinyurl](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
+| [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
 ## Stack
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0575-distribute-candies](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
+| [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -113,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 <!---LeetCode Topics End-->
