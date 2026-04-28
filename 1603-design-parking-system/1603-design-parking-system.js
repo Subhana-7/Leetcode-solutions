@@ -16,7 +16,7 @@ ParkingSystem.prototype.addCar = function (carType) {
         this.counts[carType]--
         return true
     }
-    return false;
+    return false
 };
 
 /** 
