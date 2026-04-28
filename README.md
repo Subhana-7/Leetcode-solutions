@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1603-design-parking-system](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1603-design-parking-system/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Heap (Priority Queue)
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [1603-design-parking-system](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1603-design-parking-system/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1603-design-parking-system](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1603-design-parking-system/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
