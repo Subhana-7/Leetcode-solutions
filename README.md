@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
