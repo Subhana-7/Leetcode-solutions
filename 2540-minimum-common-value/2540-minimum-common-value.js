@@ -3,20 +3,23 @@
  * @param {number[]} nums2
  * @return {number}
  */
-var getCommon = function (nums1, nums2) {
-    let i = 0;
-    let j = 0;
+var getCommon = function(nums1, nums2) {
 
-    while (i < nums1.length && j < nums2.length) {
+    let p1 = 0;
+    let p2 = 0;
 
-        if (nums1[i] === nums2[j]) {
-            return nums1[i];
+    while (p1 < nums1.length && p2 < nums2.length) {
+
+        if (nums1[p1] === nums2[p2]) {
+            return nums1[p1];
         }
 
-        if (nums1[i] < nums2[j]) {
-            i++;
-        } else {
-            j++;
+        else if (nums1[p1] < nums2[p2]) {
+            p1++;
+        }
+
+        else {
+            p2++;
         }
     }
 
