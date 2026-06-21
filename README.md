@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1789-primary-department-for-each-employee](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [3436-find-valid-emails](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3436-find-valid-emails/) | Easy |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
