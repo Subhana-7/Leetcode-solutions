@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0178-rank-scores/) | Medium |
 | [1251-average-selling-price](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
+| [1280-students-and-examinations](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1321-restaurant-growth/) | Medium |
 | [1393-capital-gainloss](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1393-capital-gainloss/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
