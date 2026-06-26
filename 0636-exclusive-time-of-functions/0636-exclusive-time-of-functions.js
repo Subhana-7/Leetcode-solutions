@@ -4,26 +4,20 @@
  * @return {number[]}
  */
 var exclusiveTime = function (n, logs) {
-    const res = new Array(n).fill(0);
-    const stack = [];
-    let prevTime = 0;
-
-    for (const log of logs) {
-        const [idStr, type, timeStr] = log.split(":");
-        const id = Number(idStr);
-        const time = Number(timeStr);
-
-        if (type === "start") {
-            if (stack.length > 0) {
-                res[stack[stack.length - 1]] += time - prevTime;
-            }
-            stack.push(id);
-            prevTime = time;
+    let arr = Array(n).fill(0);
+    let stack = [];
+    for (let log of logs) {
+        let [id, x, time] = log.split(':');
+        if (x === 'start') {
+            stack.push([+id, +time]);
         } else {
-            res[stack.pop()] += time - prevTime + 1;
-            prevTime = time + 1;
+            let [tid, ttime] = stack.pop();
+            let val = (+time - ttime) + 1;
+            arr[tid] += val;
+            if (stack.length) {
+                arr[stack[stack.length - 1][0]] -= val;
+            }
         }
     }
-
-    return res;
+    return arr;
 };
