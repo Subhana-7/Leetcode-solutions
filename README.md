@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0263-ugly-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
