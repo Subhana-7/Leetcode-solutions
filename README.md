@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
