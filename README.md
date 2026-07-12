@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
