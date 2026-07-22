@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
