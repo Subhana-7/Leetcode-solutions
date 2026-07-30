@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
