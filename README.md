@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0575-distribute-candies](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
+| [0605-can-place-flowers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0605-can-place-flowers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
