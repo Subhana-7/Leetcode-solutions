@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
