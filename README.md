@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0263-ugly-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -285,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 <!---LeetCode Topics End-->
