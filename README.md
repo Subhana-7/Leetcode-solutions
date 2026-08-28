@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1030-matrix-cells-in-distance-order](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -289,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
