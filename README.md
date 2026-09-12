@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0177-nth-highest-salary](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0178-rank-scores/) | Medium |
 | [1251-average-selling-price](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1280-students-and-examinations/) | Easy |
