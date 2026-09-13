@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
