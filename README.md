@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0263-ugly-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
