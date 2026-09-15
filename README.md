@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 ## Two Pointers
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -329,4 +333,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
