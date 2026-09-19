@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0942-di-string-match](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
