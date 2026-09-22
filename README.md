@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0394-decode-string](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1603-design-parking-system](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1603-design-parking-system/) | Easy |
 ## Hash Function
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -300,10 +303,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Trie
@@ -360,4 +365,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1114-print-in-order/) | Easy |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
