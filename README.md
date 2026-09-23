@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-complement-of-base-10-integer](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Combinatorics
