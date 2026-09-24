@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
