@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
 | [3731-find-missing-elements](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
