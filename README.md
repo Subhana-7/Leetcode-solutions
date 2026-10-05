@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0575-distribute-candies](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1603-design-parking-system](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1603-design-parking-system/) | Easy |
 ## Hash Function
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Subhana-7/Leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Divide and Conquer
