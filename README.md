@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Counting Sort
