@@ -311,12 +311,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Subhana-7/Leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Subhana-7/Leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -394,4 +397,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Subhana-7/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
